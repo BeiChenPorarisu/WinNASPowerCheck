@@ -1,0 +1,11 @@
+{
+    "target_ip": "192.168.1.1",
+    "ping_interval": 60,
+    "countdown_seconds": 180,
+    "font_family": "Microsoft YaHei",
+    "dark_mode": true,
+    "probe_seconds": 30,
+    "power_action": "hibernate",
+    "probe_ping_interval": 5,
+    "alert_ping_interval": 1
+}
